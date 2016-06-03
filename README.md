@@ -1,11 +1,11 @@
-winston-kafka-transport
+winston-kafka-transport--light
 =======================
 Simple [kafka](http://kafka.apache.org/) transport for [winston](https://github.com/flatiron/winston)
 
 ## Install
 
 ```sh
-npm install winston winston-kafka-transport --save
+npm install winston winston-kafka-transport--light --save
 ```
 
 ## Usage
