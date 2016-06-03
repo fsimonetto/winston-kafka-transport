@@ -1,26 +1,26 @@
 {
-  "name": "winston-kafka-transport",
-  "version": "0.1.6",
-  "description": "Kafka transport for Winston",
+  "name": "winston-kafka-transport--light",
+  "version": "0.1.7",
+  "description": "Kafka transport for Winston with kafka-node--light",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigdatr/winston-kafka-transport.git"
+    "url": "https://github.com/fsimonetto/winston-kafka-transport--light.git"
   },
   "keywords": [
     "winston",
     "kafka",
     "logging"
   ],
-  "author": "Atridge D'Costa",
+  "author": "Florent Simonetto",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/bigdatr/winston-kafka-transport/issues"
+    "url": "https://github.com/fsimonetto/winston-kafka-transport--light/issues"
   },
-  "homepage": "https://github.com/bigdatr/winston-kafka-transport",
+  "homepage": "https://github.com/fsimonetto/winston-kafka-transport--light",
   "dependencies": {
     "kafka-node--light": "1.0.1",
     "lodash": "^3.6.0",

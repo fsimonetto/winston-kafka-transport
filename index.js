@@ -3,7 +3,7 @@
 var util = require('util'),
     winston = require('winston'),
     _ = require('lodash'),
-    kafka = require('kafka-node');
+    kafka = require('kafka-node--light');
 
 var Producer = kafka.Producer,
     client,
