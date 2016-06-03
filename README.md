@@ -5,7 +5,7 @@ Simple [kafka](http://kafka.apache.org/) transport for [winston](https://github.
 ## Install
 
 ```sh
-npm install winston winston-kafka-transport--light --save
+npm install winston-kafka-transport--light --save
 ```
 
 ## Usage
